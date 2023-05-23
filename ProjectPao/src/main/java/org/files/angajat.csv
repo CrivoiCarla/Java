@@ -1,0 +1,6 @@
+id,firstname,lastname,email,city,county,street,number,birthdate,rol,sucursala
+1,Carla,Crivoi,carla.crivoi@s.unibuc.ro,Curtea de Arges,Arges,Strada,1,2001-05-03,CEO,Florea
+2,Rares,Niculescu,rares.niculescu@s.unibuc.ro,Constanta,Constanta,Strada,2,2001-07-16,Manager,Mamaia
+3,Stefania,Gutu,stefania.gutu@s.unibuc.ro,Baicoi,Ploiesti,Strada,3,2001-07-13,Casier,Tataia
+4,Erol,Cherim,erol.cherim@s.unibuc.ro,Tulcea,Tulcea,Strada,4,1999-01-10,Casier,Luica
+5,Raluca,Teodorescu,raluca.teodorescu@ase.csie.ro,Curtea de arges,Arges,Strada,10,2001-02-24,Casier,Resita
